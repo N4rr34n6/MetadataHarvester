@@ -1,0 +1,7 @@
+argparse
+beautifulsoup4
+requests
+colorama
+lxml
+pysocks
+sqlite3
